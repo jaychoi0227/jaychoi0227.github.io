@@ -1,0 +1,114 @@
+header {
+    text-align: center;
+}
+body {
+    background-color: #777;
+    font-size: 18px;
+}   
+div {
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    border: 5px solid #777;
+    width: 495px;
+    margin: 10px;
+    box-sizing: border-box;
+}
+#header {
+    color: #777;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #ebebeb;
+    width: 960px;
+    border: 5px solid #777;
+    padding: 30px;
+    margin: 5px;
+    height:100px;
+    box-sizing: border-box;
+}
+#nav {
+    color: #777;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #ebebeb;
+    width: 960px;
+    border: 5px solid #777;
+    padding: 30px;
+    margin: 5px;
+    height: 100px;
+    box-sizing: border-box;
+}
+#section {
+    padding:20px;
+    color: #777;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #ebebeb;
+    position: relative;
+    border: 5px solid #777;
+    width: 495px;
+    height: 200px;
+    box-sizing: content-box;
+    right:5px;
+    bottom: 5px;
+}
+#you {
+    padding:5px;
+    color: #777;
+    font-family:Arial, Helvetica, sans-serif;
+    height: 60px;
+    background-color: #ebebeb;
+    border: 5px solid #777;
+    width: 475px;
+    position: relative;
+    right: 10px;
+    box-sizing: border-box;
+}
+#me {
+    padding: 5px;
+    color: #777;
+    font-family:Arial, Helvetica, sans-serif;
+    height: 60px;
+    background-color: #ebebeb;
+    border: 5px solid #777;
+    width: 475px;
+    position: relative;
+    right: 10px;
+    bottom: 10px;
+    box-sizing: border-box;
+}
+#article {
+    padding: 5px;
+    color:#ebebeb;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #777;
+    position: relative;
+    border: 5px solid #777;
+    width: 495px;
+    height: 170px;
+    top: 10px;
+    right: 10px;
+}
+#aside {
+    color: #777;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #ebebeb;
+    position: relative;
+    border: 5px solid #777;
+    width: 410px;
+    height: 250px;
+    box-sizing: border-box;
+    left: 545px;
+    bottom: 265px;
+    padding: 20px;
+}
+#footer {
+    color: #777;
+    font-family:Arial, Helvetica, sans-serif;
+    position: relative;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #ebebeb;
+    width: 960px;
+    border: 5px solid #777;
+    padding: 30px;
+    margin: 5px;
+    box-sizing: border-box;
+    bottom: 270px;
+    height: 100px;
+}
